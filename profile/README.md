@@ -1,10 +1,16 @@
-# Heatherwick Studio
-
-Welcome to `heatherwick-studio`! This organization serves as the home for our in-house projects and the shared standards, conventions, and resources that support them.
-
 <p align="center">
+<br>
+<br>
+<br>
 <img src="https://github.com/Heatherwick-Studio/.github/raw/main/HSLogo.png" alt="HS Logo" width="300">
+<br>
+<br>
+<br>
 </p>
+
+Welcome to Heatherwick Studio!
+
+This organization serves as the home for our in-house projects and the shared standards, conventions, and resources that support them.
 
 Heatherwick Studio’s GitHub organisation is a home for digital tools that support design, experimentation, and collaboration across the studio and beyond.
 
